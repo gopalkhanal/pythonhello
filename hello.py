@@ -1,7 +1,7 @@
 import random
 n = random.randint(1, 99)
 guess = int(input("Enter an integer from 1 to 99: "))
-print ("this is the second commit")
+print ("this is the third push")
 while n != "guess":
     print
     if guess < n:
